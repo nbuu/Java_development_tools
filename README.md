@@ -25,3 +25,6 @@
 	* [runoob](http://www.runoob.com/java/java-tutorial.html)
 	* [imooc](https://www.imooc.com/search/course?words=spring&type=mf)
 	
+* [notes]
+	* [evernot](https://www.yinxiang.com/)
+	* [bear](http://www.bear-writer.com/)
