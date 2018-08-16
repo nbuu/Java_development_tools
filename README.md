@@ -11,9 +11,15 @@
 * [http test]
 	* [paw](https://paw.cloud/)
 	* [postman](#)
+* [web framework]
+	* [play framework](https://www.playframework.com/)
+	* [play framework chinese doc](http://www.playframework.cn/)
+	* [spring boot](http://spring.io/)
+	* [spring boot initializr](https://start.spring.io/)
 * [tools]
 	* [other](https://tool.lu/)
 * [blog]
 	* [zhanglilong's blog](http://www.anool.net/)
 	* [ruanyifeng's blog](http://www.ruanyifeng.com/blog//)
+
 	
