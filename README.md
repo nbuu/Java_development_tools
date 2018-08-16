@@ -4,6 +4,7 @@
 	* [jdk](https://www.oracle.com/downloads/index.html)
 * [ide]
 	* [eclipse](https://www.eclipse.org/downloads/)
+	* [sublime text](#)
 * [datebase]
 	* [mysql](https://www.mysql.com/downloads/)
 	* [oracle](#)
