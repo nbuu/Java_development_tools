@@ -13,3 +13,7 @@
 	* [postman](#)
 * [tools]
 	* [other](https://tool.lu/)
+* [blog]
+	* [zhanglilong's blog](http://www.anool.net/)
+	* [ruanyifeng's blog](http://www.ruanyifeng.com/blog//)
+	
